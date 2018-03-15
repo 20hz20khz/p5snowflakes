@@ -11,5 +11,6 @@ function setup(){
 
 function draw(){
   background(0);//black
-  
+	fill("white");
+  ellipse(10,10,10,10);
 }
